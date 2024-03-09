@@ -50,5 +50,12 @@ const x = 100;
 
 //x = 2; // Uncaught TypeError: Assignment to constant variable.
 
-
 // const score1; // Missing initializer in const declaration
+
+// Declare multiple values at once
+
+let a, b, c;
+const d = 10,
+  e = 20,
+  f = 30;
+
